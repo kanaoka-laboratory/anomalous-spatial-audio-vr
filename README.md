@@ -49,7 +49,7 @@ The study investigates how users in Virtual Reality (VR) recognize, attribute, a
 - **interview/** — The semi-structured interview guide used after the task, in Japanese and English.
 - **blockvrise-task-demo.mp4** — A demo playthrough of *BlockVRise*, the Tetris-like VR task developed for the study.
 - **codebook.md** — The codebook (19 codes) used to analyze the semi-structured interviews, with definitions and example quotes.
-- **AllParticipants_PeakYaw_ByStimulus_ByReport.xlsx** — Per-presentation head-orientation telemetry (peak yaw deviation toward the sound direction). The first sheet (`README`) documents the measurement method and every column.
+- **head-yaw-telemetry.xlsx** — Per-presentation head-orientation telemetry (peak yaw deviation toward the sound direction). The first sheet (`README`) documents the measurement method and every column.
 
 ---
 
@@ -90,5 +90,5 @@ The research materials in this repository (questionnaire, interview guide, codeb
 
 ## Contact
 
-- Kousei Otsuka (Toho University): 7526001o@st.toho-u.ac.jp<!-- TODO: update to a currently valid e-mail address -->
+- Kousei Otsuka (Toho University): 7526001o@st.toho-u.ac.jp
 - Akira Kanaoka (Toho University): akira.kanaoka@is.sci.toho-u.ac.jp

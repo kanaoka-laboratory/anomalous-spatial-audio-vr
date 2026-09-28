@@ -4,7 +4,7 @@ This document presents the codebook used to analyze the semi-structured intervie
 
 ## C01 — Sound Source
 
-**Definition:** Statements about the perceived source of an AVMA stimulus (VR vs. the physical lab). Includes which source the participant attributed the sound to and the reasoning behind it. Also includes whether the participant did or did not misattribute the sound to the physical environment.
+**Definition:** Statements about the perceived source of an anomalous auditory stimulus (VR vs. the physical lab). Includes which source the participant attributed the sound to and the reasoning behind it. Also includes whether the participant did or did not misattribute the sound to the physical environment.
 
 **Example quotes:**
 
@@ -13,7 +13,7 @@ This document presents the codebook used to analyze the semi-structured intervie
 
 ## C02 — Sound Realism
 
-**Definition:** Statements about the perceived realism of an AVMA stimulus. Includes evaluations of sound quality, whether it sounded recorded, and how authentic it felt.
+**Definition:** Statements about the perceived realism of an anomalous auditory stimulus. Includes evaluations of sound quality, whether it sounded recorded, and how authentic it felt.
 
 **Example quotes:**
 
@@ -22,7 +22,7 @@ This document presents the codebook used to analyze the semi-structured intervie
 
 ## C03 — Attack / Malicious Intent
 
-**Definition:** Statements about whether the participant perceived an AVMA stimulus as an attack or as malicious. Includes evaluations of intent and perceived harmfulness.
+**Definition:** Statements about whether the participant perceived an anomalous auditory stimulus as an attack or as malicious. Includes evaluations of intent and perceived harmfulness.
 
 **Example quotes:**
 
@@ -31,7 +31,7 @@ This document presents the codebook used to analyze the semi-structured intervie
 
 ## C04 — Psychological Impact
 
-**Definition:** Statements about psychological reactions or emotions induced by an AVMA stimulus. Includes surprise, anxiety, discomfort, annoyance, and whether it felt distracting or not.
+**Definition:** Statements about psychological reactions or emotions induced by an anomalous auditory stimulus. Includes surprise, anxiety, discomfort, annoyance, and whether it felt distracting or not.
 
 **Example quotes:**
 
@@ -40,7 +40,7 @@ This document presents the codebook used to analyze the semi-structured intervie
 
 ## C05 — References to the Physical Environment
 
-**Definition:** Statements grounded in the situation of the lab or the physical environment in relation to an AVMA stimulus. Includes remarks such as "There shouldn’t be a baby in this room" or "I didn’t think that sound would occur here," reflecting incongruity inferred from the environment.
+**Definition:** Statements grounded in the situation of the lab or the physical environment in relation to an anomalous auditory stimulus. Includes remarks such as "There shouldn’t be a baby in this room" or "I didn’t think that sound would occur here," reflecting incongruity inferred from the environment.
 
 **Example quotes:**
 
@@ -58,7 +58,7 @@ This document presents the codebook used to analyze the semi-structured intervie
 
 ## C07 — Task Impact of Audio
 
-**Definition:** Statements about how an AVMA stimulus affected task performance. Includes references to pausing, reduced concentration, interruptions, and perceived changes in performance.
+**Definition:** Statements about how an anomalous auditory stimulus affected task performance. Includes references to pausing, reduced concentration, interruptions, and perceived changes in performance.
 
 **Example quotes:**
 
@@ -67,7 +67,7 @@ This document presents the codebook used to analyze the semi-structured intervie
 
 ## C08 — Perceived Direction of the Sound
 
-**Definition:** Statements about the perceived direction of an AVMA stimulus, i.e., sound-image localization.
+**Definition:** Statements about the perceived direction of an anomalous auditory stimulus, i.e., sound-image localization.
 
 **Example quotes:**
 
@@ -103,7 +103,7 @@ This document presents the codebook used to analyze the semi-structured intervie
 
 ## C12 — Head Turn / Gaze Shift
 
-**Definition:** Statements about whether the participant actually turned around or shifted their gaze in response to an AVMA stimulus, and explanations for why viewpoint manipulation did or did not occur.
+**Definition:** Statements about whether the participant actually turned around or shifted their gaze in response to an anomalous auditory stimulus, and explanations for why viewpoint manipulation did or did not occur.
 
 **Example quotes:**
 
@@ -112,7 +112,7 @@ This document presents the codebook used to analyze the semi-structured intervie
 
 ## C13 — Attributed to Bugs or System Sounds
 
-**Definition:** Statements interpreting an AVMA stimulus as a game bug or as an OS/system notification sound.
+**Definition:** Statements interpreting an anomalous auditory stimulus as a game bug or as an OS/system notification sound.
 
 **Example quotes:**
 
@@ -139,7 +139,7 @@ This document presents the codebook used to analyze the semi-structured intervie
 
 ## C16 — Most Impactful / Most Memorable Sound
 
-**Definition:** Statements about which AVMA stimulus was most impactful on viewpoint manipulation or the task, or which sound was most memorable, and why. Purely relative comparisons (e.g., "more memorable than X") are excluded.
+**Definition:** Statements about which anomalous auditory stimulus was most impactful on viewpoint manipulation or the task, or which sound was most memorable, and why. Purely relative comparisons (e.g., "more memorable than X") are excluded.
 
 **Example quotes:**
 
@@ -148,7 +148,7 @@ This document presents the codebook used to analyze the semi-structured intervie
 
 ## C17 — Least Impactful / Not Memorable Sound
 
-**Definition:** Statements about which AVMA stimulus had little impact on viewpoint manipulation or the task, or was hardly memorable, and why. Purely relative comparisons are excluded.
+**Definition:** Statements about which anomalous auditory stimulus had little impact on viewpoint manipulation or the task, or was hardly memorable, and why. Purely relative comparisons are excluded.
 
 **Example quotes:**
 
