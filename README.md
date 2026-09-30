@@ -9,7 +9,7 @@ This repository provides the supplementary materials for the following paper:
   In *IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom 2026)*, 2026.
   <!-- TODO: add DOI / official proceedings link once available -->
 
-The study investigates how users in Virtual Reality (VR) recognize, attribute, and experience anomalous spatial audio, and whether they interpret it as an attack. To support transparency and reproducibility, this repository releases the auditory stimuli, the VR task demo, the questionnaire and interview materials, the interview codebook, and the head-orientation telemetry results used in the user study.
+The study investigates how users in Virtual Reality (VR) recognize, attribute, and experience anomalous spatial audio, and whether they interpret it as an attack. To support transparency and reproducibility, this repository releases the materials used in the user study: the auditory stimuli (the authors' own recording, and source links for the others), the VR task demo, the questionnaire and interview materials, the interview codebook, and the head-orientation telemetry results.
 
 > **Note on language.** The user study was conducted in Japanese. The questionnaire and the interview guide were originally written in Japanese (the files suffixed `_ja`), and the English versions (suffixed `_en`) are machine translations produced with DeepL. In case of any discrepancy, the Japanese versions are authoritative.
 
@@ -44,10 +44,10 @@ The study investigates how users in Virtual Reality (VR) recognize, attribute, a
   - **GB — Glass Breaking** / グラスが砕ける (glass_break): https://taira-komori.jpn.org/daily01.html
   - **HV — Human Voice** / 人の声（「お疲れ様です」）: included in this repository (`stimuli/HV_human-voice.WAV`), recorded by the authors.
   - **BC — Baby Crying** / 赤ちゃん　泣き声　2: https://vsq.co.jp/plus/sound/category_sub/baby/
-  - **DC — Dependent Context** / 決定音「エコー」: https://musmus.main.jp/se.html
+  - **DC — Dependent Context** / 決定音「エコー」: https://musmus.main.jp/se.html (MUSMUS)
 - **questionnaire/** — The post-study questionnaire (prior VR/Tetris experience, System Usability Scale, and social acceptability), in Japanese and English.
 - **interview/** — The semi-structured interview guide used after the task, in Japanese and English.
-- **blockvrise-task-demo.mp4** — A demo playthrough of *BlockVRise*, the Tetris-like VR task developed for the study.
+- **blockvrise-task-demo.mp4** — A demo playthrough of *BlockVRise*, the Tetris-like VR task developed for the study. Music and sound effects: MUSMUS (https://musmus.main.jp/).
 - **codebook.md** — The codebook (19 codes) used to analyze the semi-structured interviews, with definitions and example quotes.
 - **head-yaw-telemetry.xlsx** — Per-presentation head-orientation telemetry (peak yaw deviation toward the sound direction). The first sheet (`README`) documents the measurement method and every column.
 
@@ -70,21 +70,23 @@ If you use these materials, please cite the paper:
 ```bibtex
 @inproceedings{otsuka2026wasthatreal,
   title     = {``Was That Real?'' Understanding How Users Interpret Anomalous Spatial Audio in Virtual Reality},
-  author    = {Kousei Otsuka, Shodai Kurasaki, Mayu Fujita, Akira Kanaoka},
+  author    = {Otsuka, Kousei and Kurasaki, Shodai and Fujita, Mayu and Kanaoka, Akira},
   booktitle = {IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)},
   year      = {2026}
 }
 ```
 
-<!-- TODO: if this repository is archived on Zenodo, add the dataset DOI and its citation here as well. -->
+<!-- TODO: add the Zenodo dataset DOI and its citation here once the archive is created. -->
 
 ---
 
 ## License
 
-<!-- TODO: confirm the license. CC BY 4.0 is recommended for the research data
-     (questionnaire, interview guide, codebook, telemetry, and the HV recording). -->
-The research materials in this repository (questionnaire, interview guide, codebook, telemetry results, and the HV audio recording) are released under CC BY 4.0, unless otherwise noted. The other four stimuli (PV, GB, BC, DC) are not redistributed here; each is governed by the terms of use of its original source, listed above.
+The research materials created by the authors (the questionnaire, interview guide, codebook, telemetry results, the HV audio recording, and the video footage of the task demo) are released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), with the following exceptions:
+
+- **Demo video audio**: The music and sound effects in `blockvrise-task-demo.mp4` are provided by MUSMUS (https://musmus.main.jp/) and are used under its terms of use. They are not covered by CC BY 4.0.
+- **System Usability Scale (SUS)**: The SUS items in the questionnaire are from Brooke (1996) and are not covered by CC BY 4.0.
+- **Stimuli PV, GB, BC, and DC**: These are not redistributed here; each is governed by the terms of use of its original source, listed above.
 
 ---
 
