@@ -1,0 +1,14 @@
+{
+  "title": "Supplementary Materials for \"Was That Real?\" Understanding How Users Interpret Anomalous Spatial Audio in Virtual Reality",
+  "upload_type": "dataset",
+  "description": "Supplementary materials for a user study on how users in virtual reality recognize, attribute, and experience anomalous spatial audio (IEEE MetaCom 2026). Includes the authors' human-voice stimulus and source links for the other stimuli, a demo video of the VR task, the questionnaire and semi-structured interview guide (Japanese and English), the interview codebook, and per-presentation head-orientation telemetry. The authors' materials are released under CC BY 4.0; see README.md for exceptions (demo video audio by MUSMUS, SUS items by Brooke, and externally sourced stimuli).",
+  "creators": [
+    {"name": "Otsuka, Kousei", "affiliation": "Toho University"},
+    {"name": "Kurasaki, Shodai", "affiliation": "Toho University"},
+    {"name": "Fujita, Mayu", "affiliation": "Toho University"},
+    {"name": "Kanaoka, Akira", "affiliation": "Toho University"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["virtual reality", "spatial audio", "usable security", "perceptual manipulation", "user study"],
+  "version": "1.0.0"
+}
