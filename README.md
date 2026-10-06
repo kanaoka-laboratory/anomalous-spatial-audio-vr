@@ -85,7 +85,7 @@ If you use these materials, please cite the paper:
 The research materials created by the authors (the questionnaire, interview guide, codebook, telemetry results, the HV audio recording, and the video footage of the task demo) are released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), with the following exceptions:
 
 - **Demo video audio**: The music and sound effects in `blockvrise-task-demo.mp4` are provided by MUSMUS (https://musmus.main.jp/) and are used under its terms of use. They are not covered by CC BY 4.0.
-- **System Usability Scale (SUS)**: The SUS items in the questionnaire are from Brooke (1996) and are not covered by CC BY 4.0.
+- **System Usability Scale (SUS)**: The SUS items in the questionnaire are from Brooke (1996); the Japanese version is the authors' translation. SUS is freely available for use provided that its source is acknowledged; it is not covered by CC BY 4.0.
 - **Stimuli PV, GB, BC, and DC**: These are not redistributed here; each is governed by the terms of use of its original source, listed above.
 
 ---
